@@ -8,3 +8,5 @@ ENV/
 */.venv/
 
 *.jpg
+config.bat
+node_modules
