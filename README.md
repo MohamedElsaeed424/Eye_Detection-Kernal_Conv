@@ -1,4 +1,4 @@
-# Eye Detection 
+# 👁️Eye Detection 
 
 ## Description
 This project implements eye detection using the **integral image technique** . An optimized filter (kernel) is convolved over facial images to localize the eye region efficiently using summed-area tables.
